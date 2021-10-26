@@ -2,7 +2,8 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me 
+- 📫 How to reach me email at : muhammadahmedsaeednizami@gmail.com
+
 
 <!---
 Ahmednizami/Ahmednizami is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
