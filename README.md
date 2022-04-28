@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ahmednizamil
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on web development
+- 🌱 I’m currently learning AI Robotics
+- 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me email at : muhammadahmedsaeednizami@gmail.com
 
 
