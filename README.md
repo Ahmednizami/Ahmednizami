@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence
 - 🌱 I’m currently learning AI Robotics
 - 💞️ I’m looking to collaborate on Python
-- 📫 How to reach me email at : muhammadahmedsaeednizami@gmail.com
+- 📫 How to reach me email at : projectwithahmed@gmail.com
 
 
 <!---
