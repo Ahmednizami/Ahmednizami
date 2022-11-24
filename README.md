@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmednizamil
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning AI Robotics
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me email at : projectwithahmed@gmail.com
 
