@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ahmednizamil
 - 👀 I’m interested in Natural Language Processing
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me email at : projectwithahmed@gmail.com
 
